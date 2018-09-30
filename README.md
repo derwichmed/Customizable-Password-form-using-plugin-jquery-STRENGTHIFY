@@ -1,0 +1,1 @@
+# Customizable-Password-form-using-plugin-jquery-STRENGTHIFY
